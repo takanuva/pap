@@ -6,6 +6,7 @@ O trabalho será individual; os temas escolhidos em sala estão listados abaixo.
 
 ## Temas Escolhidos
 
+- Antônio: **Solidity** (citar smart contracts)
 - Arthur: **Lucid** (citar programação reativa)
 - Beatriz: **Go** (citar programação concorrente)
 - Bruno: **JavaScript**
@@ -13,6 +14,7 @@ O trabalho será individual; os temas escolhidos em sala estão listados abaixo.
 - Geremias: **F#**
 - Guilherme: **Ladder** (citar IEC 61311-3)
 - Gustavo: **Agda** (citar dependent types)
+- Ivan: **Ada** (citar SPARK)
 - Kerolayne: **Elixir** (citar programação distribuída)
 - Luã: **Smalltalk**
 - Lucas M.: **Clojure**

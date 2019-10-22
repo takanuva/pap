@@ -11,11 +11,12 @@ O trabalho será individual; os temas escolhidos em sala estão listados abaixo.
 - Beatriz: **Go** (citar programação concorrente)
 - Bruno: **JavaScript**
 - Eduardo: **Scala** (citar path-dependent types)
-- Geremias: **F#**
+- Geremias: **F#** (citar computation expressions)
 - Guilherme: **Ladder** (citar IEC 61311-3)
 - Gustavo: **Agda** (citar dependent types)
 - Ivan: **Ada** (citar SPARK)
 - Kerolayne: **Elixir** (citar programação distribuída)
+- Leonardo: **Dart** (citar gradual typing)
 - Luã: **Smalltalk**
 - Lucas M.: **Clojure**
 - Lucas S.: **Forth** (citar programação concatenativa)
